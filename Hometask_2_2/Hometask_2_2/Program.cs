@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// Горюнов Евгений
 //2. Написать метод подсчета количества цифр числа.
 
 namespace Hometask_2_2
