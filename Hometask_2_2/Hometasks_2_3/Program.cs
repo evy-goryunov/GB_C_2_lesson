@@ -12,7 +12,7 @@ namespace Hometasks_2_3
 		static void Main(string[] args)
 		{
 			int count = 0;
-			Console.WriteLine("Вводите числа чтобы узнать их сумму нечетных положительных чисел");
+			Console.WriteLine("Вводите числа чтобы узнать сумму нечетных положительных чисел");
 			while(true)
 			{
 				int num = Convert.ToInt32(Console.ReadLine());
